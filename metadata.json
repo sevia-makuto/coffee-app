@@ -1,0 +1,6 @@
+{
+  "name": "Brewnique",
+  "description": "Order ahead from premium local cafes, earn rewards, save favorites, pay securely with Apple/Google Pay, and discover nearby specialty coffee shops on an interactive map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
